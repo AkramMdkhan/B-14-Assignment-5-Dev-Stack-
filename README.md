@@ -1,3 +1,5 @@
+// Project information //
+
 🚀 DevStack
 
 DevStack is an interactive web app that helps developers explore popular technologies and build their own custom tech stack. Browse frontend, backend, database, language, styling, and DevOps tools — add the ones you like to a personal "Your Stack" panel and see your ideal stack come together in real time.
